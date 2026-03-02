@@ -6,7 +6,8 @@ I have experience with:
 - modern React features such as Next.js App Router and Context API
 - load-balancing using nginx
 - testing using Playwright, Jest, React Testing Library, and k6
-- deploying using Vercel and AWS; other languages like Go and Python
+- deploying using Vercel and AWS
+- other languages like Go, Rust, and Python
 
 I have been working on [My Animal Crossing Island](https://myacisland.vercel.app/), a personal website made with Typescript and React using Next.js with a MongoDB Atlas backend, with continuous deployment on Vercel. I have also been working through [Advent of Code](https://www.adventofcode.com) - an Advent calendar of programming puzzles - and writing my solutions using various languages to gain more appreciation for the differences between Javascript, Go, and Python.
 
